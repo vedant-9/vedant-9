@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **vedant.work4@gmail.com**
 
+- 💻 [Portfolio Website](https://vedant-9.github.io/)
+
 - ⚡ <a href="https://www.chess.com/member/vedant_1" target="blank">Play chess with me!</a>
 
 
