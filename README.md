@@ -74,7 +74,7 @@
 # 📊 GitHub Stats:
 <p align = "center">
 <a><img src="https://github-readme-stats.vercel.app/api?username=vedant-9&theme=radical&hide_border=false&include_all_commits=true&count_private=true"></img></a>
-<a><img src="https://github-readme-streak-stats.herokuapp.com/?user=vedant-9&theme=radical&hide_border=false"></img></a>
+<a><img src="https://streak-stats.demolab.com/?user=vedant-9&theme=radical&hide_border=false"></img></a>
 
 [//]: # (<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-9&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></a>)
 </p>
