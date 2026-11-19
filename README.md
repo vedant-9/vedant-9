@@ -11,7 +11,6 @@ Building scalable software systems and exploring AI-powered applications.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366f1?style=flat-square&logo=googlechrome&logoColor=white)](https://vedant-9.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant1/)
-[![Medium](https://img.shields.io/badge/Medium-Read-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@vedant-1)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vedant.work4@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=vedant-9&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile Views" />
